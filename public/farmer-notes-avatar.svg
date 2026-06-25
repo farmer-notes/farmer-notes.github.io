@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Farmer Notes avatar">
+  <rect width="1024" height="1024" rx="216" fill="#eef7f2"/>
+  <rect x="88" y="88" width="848" height="848" rx="180" fill="#f8fbf8" stroke="#b7d7cd" stroke-width="18"/>
+  <path d="M184 760c140-112 310-164 628-164" fill="none" stroke="#16876f" stroke-width="64" stroke-linecap="round"/>
+  <path d="M196 650c126-92 294-140 574-146" fill="none" stroke="#16876f" stroke-width="44" stroke-linecap="round" opacity=".72"/>
+  <circle cx="760" cy="262" r="72" fill="#d65f45"/>
+  <text
+    x="184"
+    y="572"
+    fill="#14211d"
+    font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="360"
+    font-weight="850"
+    letter-spacing="0"
+  >FN</text>
+</svg>
